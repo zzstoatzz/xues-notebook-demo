@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - jupyterlite===0.1.0b16
     - jupyterlite-xeus-python==0.6.1
+    - prefect
