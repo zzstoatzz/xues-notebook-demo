@@ -4,3 +4,4 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - prefect==2.7.4
+  - aiohttp>=3.8.1
